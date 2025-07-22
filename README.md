@@ -7,15 +7,15 @@ Connect, collaborate, and vibe in real-time with ChatVibe — a modern, AI-integ
 
 ## 🚀 Features
 
-- 🧠 AI Assistant Integration (e.g., OpenAI GPT)
-- 💬 Real-time messaging using WebSockets (Socket.IO)
-- 👤 User Authentication with JWT + Refresh tokens
-- 🔐 Secure sign-in (login/signup/logout flow)
-- 📱 Responsive UI with Tailwind CSS
-- 🌙 Dark & Light mode toggle
-- 🪪 Profile system with avatars
-- 📁 Clean modular folder structure (client/server)
-- 🧪 Future-ready for voice/video integration
+-  AI Assistant Integration (e.g., OpenAI GPT)
+-  Real-time messaging using WebSockets (Socket.IO)
+-  User Authentication with JWT + Refresh tokens
+-  Secure sign-in (login/signup/logout flow)
+-  Responsive UI with Tailwind CSS
+-  Dark & Light mode toggle
+-  Profile system with avatars
+-  Clean modular folder structure (client/server)
+-  Future-ready for voice/video integration
 
 ---
 
@@ -65,7 +65,7 @@ chatvibe/
 
 ---
 
-🧪 Getting Started
+## 🧪 Getting Started
 Clone and run locally:
 
 ```
@@ -119,5 +119,5 @@ OpenAI for ChatGPT APIs
 Socket.IO for seamless real-time communication
 
 Tailwind CSS for lightning-fast UI building
-
+---
 Built with ❤️ by Hem Ajit Patel
